@@ -41,7 +41,8 @@ Private Sub B4XPage_Created (Root1 As B4XView)
 '	Sleep(2000)
 '	
 '	ASRangeSeekBar1.Value1 = 20
-'	ASRangeSeekBar1.Value2 = 40
+'	ASRangeSeekBar1.MaxValue = 200
+'	ASRangeSeekBar1.Update
 '	
 '	Sleep(2000)
 '	

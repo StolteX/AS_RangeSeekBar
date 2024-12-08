@@ -10,6 +10,8 @@ V1.00
 	-Release
 V1.01
 	-BugFix - set Value2 was linked to the wrong variable
+V1.02
+	-Base_Resize is public now
 #End If
 
 #DesignerProperty: Key: ReachedLineColor , DisplayName: Reached Line Color , FieldType: Color, DefaultValue: 0xFFFFFFFF
@@ -67,7 +69,7 @@ Public Sub DesignerCreateView (Base As Object, Lbl As Label, Props As Map)
 	#End If
 End Sub
 
-Private Sub Base_Resize (Width As Double, Height As Double)
+Public Sub Base_Resize (Width As Double, Height As Double)
  	cvs.Resize(Width, Height)
 	TouchPanel.SetLayoutAnimated(0, 0, 0, Width, Height)
 	Vertical = mBase.Height > mBase.Width

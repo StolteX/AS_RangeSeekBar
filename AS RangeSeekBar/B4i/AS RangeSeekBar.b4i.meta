@@ -7,6 +7,6 @@ ModuleBreakpoints2=
 ModuleClosedNodes0=4
 ModuleClosedNodes1=
 ModuleClosedNodes2=1
-NavigationStack=Main,Process_Globals,13,0,B4XMainPage,Initialize,9,0,ASRangeSeekBar,Class_Globals,14,0,Visual Designer,MainPage.bil,-100,6,B4XMainPage,ASRangeSeekBar2_ValueChanged,44,0,B4XMainPage,Class_Globals,13,0,ASRangeSeekBar,getValue1,184,0,ASRangeSeekBar,setValue2,180,0,ASRangeSeekBar,setValue1,175,0,B4XMainPage,B4XPage_Created,37,5
+NavigationStack=B4XMainPage,ASRangeSeekBar2_ValueChanged,44,0,ASRangeSeekBar,getValue1,184,0,ASRangeSeekBar,setValue2,180,0,ASRangeSeekBar,setValue1,175,0,ASRangeSeekBar,Class_Globals,31,0,ASRangeSeekBar,getValue2,194,0,ASRangeSeekBar,SetValueBasedOnTouch,160,0,Visual Designer,MainPage.bil,-100,6,B4XMainPage,Class_Globals,16,0,B4XMainPage,B4XPage_Created,37,6
 SelectedBuild=0
 VisibleModules=2,1
